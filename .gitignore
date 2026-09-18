@@ -1,6 +1,6 @@
 venv/
 venv
 env/
-env
+.env
 _pycache__/
 ._pycache__
